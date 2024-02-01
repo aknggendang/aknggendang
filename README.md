@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aknggendang
 - 👀 I’m interested in software enginering and web development
-- 🌱 I’m currently learning HtML CSS Javascript & Python
+- 🌱 I’m currently learning HtML CSS Javascript & Python Data Science
 
 <!---
 aknggendang/aknggendang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
