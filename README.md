@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aknggendang
-- 👀 I’m interested in software enginering and web development
+- 👀 I’m interested in Machine Learning and web development
 - 🌱 I’m currently learning HtML CSS Javascript & Python Data Science
 
 <!---
